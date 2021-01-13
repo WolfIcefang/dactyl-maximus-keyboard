@@ -3,25 +3,36 @@ Dactyl Maximus is a 3d printable split-hand gaming keyboard with interchangeable
 
 <img src="https://raw.githubusercontent.com/adereth/dactyl-cave/master/resources/glamourshot.png"/>
 
-This readme explains *why* I am designing the Dactyl Maximus.
+This readme explains *what* the Dactyl Maximus is.
 * If you want to learn *how* to build one for yourself, read the GitHub Pages build guide here: **link here**.
 * If you want to customize the Dactyl Maximus to match your hand size, or learn how to contribute to the project, please peruse the wiki: **link here**
 * If you need help with anything, or just want to brainstorm or chat, join the Discord server! **link here**
 * The Dactyl Maximus's stl files can be found in the Releases sidebar to the right. **coming soon**
 
-## Why is the Dactyl Maximus a "gaming" keyboard?
+## First off, what is a Dactyl?
 
-The first real question is, why did I want to build a custom gaming keyboard? Right now, custom keyboards and gaming keyboards are two separate communities. Custom keyboards have many excellent attributes: uncompromising build quality, high-end materials and components, and advanced software. However, gaming keyboards feature different priorities: a simple setup experience, convenient software, and of course, RGB.
+The Dactyl keyboard is a 3d printed mechanical keyboard. Each half has a "bowl" of keys arranged in a grid. Each column in the grid is curved to match the length of your fingers. The dactyl also has an array of keys for the thumb called the thumb cluster. There have been many forks of the Dactyl GitHub page, most famously the Dactyl Manuform, the Tightyl, and the Bastyl. 
 
-I'm not saying the Dactyl Maximus will be as easy to use as a pre-built keyboard, but it should be no more daunting than building a desktop gaming rig. The original Dactyl keyboard was designed by programmers, for programmers, and it shows. The software installation guide is a few bullet points with tips, and the wiring instructions are, I quote, "A very rough guide for the brave". To contrast, a successful build guide will be how I judge the success of Dactyl Maximus as a project. I want anyone, given the build guide, to go from "no prior keyboard knowledge" to "functional masterpiece" within a month.
+## How does the Dactyl Maximus stand out from the crowd?
 
-To round out the "gaming" aspects, Dactyl Maximus has an exposed keyswitch design and, of course per-key RGB backlighting. These don't seriously make sense as gaming features - exposed keyswitches lower a keyboard's durability and RGB effects can be distracting, but they do serve practical purposes here: the former makes 3d printing easier and the latter helps people acclimate to typing with layers. 
+The most significant difference between the Dactyl-like keyboards are their thumb clusters. It's clear that there is no universally perfect cluster design. To address this situation, the thumb clusters on the Dactyl Maximus are interchangeable; they are printed independently of the bowls. A standardized "mounting plate" file can be found in **coming soon** and the wiki has a list of popular cluster designs. **coming later**
 
-Finally, I call the Dactyl Maximus a gaming keyboard to avoid calling it an ergonomic keyboard. The human body is really, *really* complicated; I don't feel qualified to say that this board has real health benefits.
+Dactyl Maximus should also be easier to print than previous Dactyl Models. Each bowl is printed in 6 parts: top plate, bottom plate, and four side panels. Once again, this allows extensive customization of the keyboard after it has been assembled. Mouse wheels, joysticks, arrow keys, and rotary encoders can be attached to either side. **coming last**
 
+Dactyl Maximus will officially have 1 bowl size: 5 rows by 6 columns. Seriously, why would anyone expect a small version of a keyboard called Maximus? If you prefer keyboards with fewer keys and greater portability, I recommend the Corne keyboard: https://github.com/foostan/crkbd For even greater portability, try the **coming soon** ortholinear keyboard recommendation.
 
-## What else makes the Dactyl Maximus awesome?
+### Why is Dactyl Maximus a "gaming" keyboard?
 
+The original Dactyl keyboard was designed by programmers, for programmers, and it shows. The guide for software installation is a few bullet points with tips, and the wiring instructions are, I quote, "A very rough guide for the brave". In contrast, the Dactyl Maximus will inherit the best traits of gaming keyboards: A simple setup experience, reliable operation, convenient software, exposed switches, and of course, 16.8 million colors of per-key RGB backlighting.
+
+To achieve this, a significant amount of effort is being put into the beginner build guide. It will list everything, from recommended components, to finding public 3D printers, to learning to solder. A successful build guide is how I will judge the success of the Dactyl Maximus project. I want anyone, provided the build guide, to go from "no prior keyboard knowledge" to "functional masterpiece" within a month. **Coming sooner or later.**
+
+Finally, labelling the Dactyl Maximus a gaming keyboard takes some stress off the project for me. It lowers the bar, in a way. I believe Dactyls can compete with the quality of big name brands, but competing against $500 group buys would be madness. Calling the Dactyl Maximus a gaming keyboard serves another purpose: I use it as a way to avoid calling it an ergonomic keyboard.  The human body is really, *really* complicated; I don't feel qualified to say that this board has real health benefits.
+
+## That being said, if we're going to 3D print our own keyboards, there's no more wickedly radical way to do it than the Dactyl. 
+
+The following is the original Dactyl's description. I still need it for a few things, and the video is a good watch.
+TODO: Figure out how copyright works, and get it from 2015 to 2021!
 
 There's a talk about the motivation and design of the Dactyl that helps provide context for this repo:
 
